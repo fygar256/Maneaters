@@ -1,2 +1,3 @@
 robots: robots.o
-	gcc robots.o -o robots -lncurses
+	gcc robots.o -o robots -lncursesw
+	
