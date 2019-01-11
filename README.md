@@ -15,7 +15,7 @@ sudo apt-get install libncurses5-dev
 
 それか、cc robots.c -o robots -lncurses　と、コンパイルできます。
 
-# Instruction of Raging Robots Ver 0.8
+Instruction of Raging Robots Ver 0.8
 
 Mission : survive from raging robots.
 
@@ -27,11 +27,12 @@ Mission : survive from raging robots.
 
              if you touch robots and rocks then you die.
              
-Key Control: 7   8   9    tenkey: 7  8  9
+Key Control:
+7  8  9    7  8  9
 
-             u   i   o            4  5  6
+u  i  o    4  5  6
 
-             j   k   l            1  2  3
+j  k  l    1  2  3
              
              
 these keys move you to each direction. 'i' and '5' take no move.
