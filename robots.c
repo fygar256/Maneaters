@@ -205,7 +205,7 @@ void	instruction() {
 		printw("             u   i   o            4  5  6\n\n");
 		printw("             j   k   l            1  2  3\n\n");
 		printw("             these keys move you to each direction.\n");
-		printw("						 'i' and '5' take no move.\n");
+		printw("             'i' and '5' take no move.\n");
 		printw("             and 'q' key to quit.\n");
 		printw("             Good Luck\n");
 		printw("Hit a key to start game\n");
