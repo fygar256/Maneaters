@@ -1,7 +1,7 @@
 # robots
 The Raging Robots.
 
-Cのゲームの習作です。
+Cのcursesのゲームの習作です。
 
 linuxのコンソールで動きます。ncursesを使っています。
 
