@@ -13,7 +13,7 @@ Instruction of Maneaters Ver 0.9
 
 Mission : survive from Maneaters.
 
-＃ --- Rock , which robot dies if robots touch.
+＃ --- Rock , which maneaters and player die if touch.
 
 Ｏ --- Maneaters , which chases you step by step.
 
