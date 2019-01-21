@@ -1,28 +1,22 @@
-# robots
-The Raging Robots.
+# Maneaters
 
-Cのcursesのゲームの習作です。
+For linux console.
+using ncursesw.
 
-linuxのコンソールで動きます。ncurseswを使っています。
-
-ncurseswがないと動かないので、
-
+First, Install ncursesw like this:
 sudo apt-get install libncursesw5-dev
 
-として、インストールして下さい。
+to compile:
+cc maneaters.c -o maneaters -lncursesw 
 
-コンパイルは、Makefile があるので、make して下さい。
+Instruction of Maneaters Ver 0.9
 
-それか、cc robots.c -o robots -lncursesw　と、コンパイルできます。
-
-Instruction of Raging Robots Ver 0.8
-
-Mission : survive from raging robots.
+Mission : survive from Maneaters.
 
 ＃ --- Rock , which robot dies if robots touch.
 
-＠ --- Raging Robot , which chases you step by step.
+Ｏ --- Maneaters , which chases you step by step.
 
-Ｏ --- You , control and run away from the robots.
+＠ --- Player, control and run away from the Maneaters.
 
 <a href="https://imgur.com/oaD71xN"><img src="https://i.imgur.com/oaD71xN.png" title="source: imgur.com" /></a>
