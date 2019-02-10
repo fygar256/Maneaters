@@ -9,7 +9,7 @@ sudo apt-get install libncursesw5-dev
 to compile:
 cc maneaters.c -o maneaters -lncursesw 
 
-Instruction of Maneaters Ver 0.9
+Instruction of Maneaters Ver 1.0
 
 Mission : survive from Maneaters.
 
