@@ -11,14 +11,11 @@ cc maneaters.c -o maneaters -lncursesw
 
 Instruction of Maneaters Ver 1.3
 
-Mission : survive from Maneaters.
-
-＃ --- Rock , which maneaters and player die if touch.
-
-Ｏ --- Maneaters , which chases you step by step.
-
-＠ --- Player, control and run away from the Maneaters.
-
+Mission : マンイーターを消して生き残れ！  
+    Ｏ -- Maneater, 段階的に追い詰める敵  
+    ＃ -- Rock, 触るとマンイーターや自分が死ぬ  
+    ＠ -- Player, コントロールしてマンイーターを岩に当て、生き残れ！  
+    
 <a href="https://imgur.com/oaD71xN"><img src="https://i.imgur.com/oaD71xN.png" title="source: imgur.com" /></a>
 
-In this repository. the .deb file is for Ubuntu 18.04 and debian 9.
+The .deb file is for Ubuntu 18.04 and Debian 9.
